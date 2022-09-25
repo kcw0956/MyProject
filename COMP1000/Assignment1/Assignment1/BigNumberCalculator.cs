@@ -78,12 +78,12 @@ namespace Assignment1
 
         public static string ToHexOrNull(string num)
         {
-            return num;
+            return null;
         }
 
         public static string ToDecimalOrNull(string num)
         {
-            return num;
+            return null;
         }
 
         public string AddOrNull(string num1, string num2, out bool bOverflow)
