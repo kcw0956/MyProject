@@ -73,17 +73,17 @@ namespace Assignment1
 
         public static string ToBinaryOrNull(string num)
         {
-            return null;
+            return num;
         }
 
         public static string ToHexOrNull(string num)
         {
-            return null;
+            return num;
         }
 
         public static string ToDecimalOrNull(string num)
         {
-            return null;
+            return num;
         }
 
         public string AddOrNull(string num1, string num2, out bool bOverflow)
